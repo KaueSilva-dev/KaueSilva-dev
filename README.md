@@ -1,8 +1,8 @@
 ## Olá, EU sou Kaue Silva.
 <div>
   <a href="https://github.com/KaueSilva-dev">
-  <img alta="180em" src="https://github-readme-stats.vercel.app/api?username=KaueSilva-dev&mostrar_icons=true&tema=dark&incluir_all_commits=true&count_private=true"/>
-  <img alta="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSilva-dev&layout=compacto&langs_count=7&tema=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueSilva-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSilva-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div estilo="exibição: inline_block"><br>
